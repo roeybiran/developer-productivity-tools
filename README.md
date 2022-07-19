@@ -1,7 +1,5 @@
 # Developer Productivity Tools
 
-By [Roey Biran](https://github.com/roeybiran) (14 Jul 2022)
-
 ## [Contexts](https://contexts.co/)
 
 - A radically simpler and faster window switcher.
