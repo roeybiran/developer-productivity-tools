@@ -58,5 +58,5 @@
 ## Quick Look
 
 - In my opinion, Quick Look is one of macOS’ best features. Quick Look can be extended and enhanced using various plug–ins. Here are some I use:
-	- [Syntax Highlight](https://github.com/sbarex/SourceCodeSyntaxHighlight). Previews code (and other types of text files) with syntax highlighting.
-	- [BetterZip](https://macitbetter.com/BetterZip-Quick-Look-Generator/). Previews contents inside archives.
+	- [Syntax Highlight](https://github.com/sbarex/SourceCodeSyntaxHighlight): previews code (and other types of text files) with syntax highlighting.
+	- [BetterZip](https://macitbetter.com/BetterZip-Quick-Look-Generator/): previews contents inside archives.
