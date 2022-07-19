@@ -40,7 +40,7 @@
 	- Killing processes with `kill`.
 	- Navigating the file system.
 	- Switching branches in `git`.
-	- Adding and removing files `git`.
+	- Adding and removing files in `git`.
 
 ## [Hammerspoon](https://github.com/Hammerspoon/hammerspoon)
 
